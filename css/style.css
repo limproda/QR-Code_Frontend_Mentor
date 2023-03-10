@@ -1,0 +1,47 @@
+
+body{
+    background-color: white;
+
+}
+
+img{
+    width: 280px;
+    border-radius: 5%;
+}
+
+h2{
+    font-size:larger;
+    width: 80%;
+    margin: 1rem auto;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    font-family: 'Outfit';
+    font-size: 15px;
+    width: 80%;
+    margin: 1rem auto;
+    color:grey;
+}
+
+.secondBackground{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 900px;
+    margin: auto;
+    text-align: center;
+    box-shadow: 15px 15px 30px hsl(220, 15%, 55%);
+
+}
+
+.thirdBackground{
+    background-color: white;
+    width: 300px;
+    margin:auto;
+    padding: 1.40rem 0.45rem 1rem 0.45rem;
+    border-radius: 5%;
+    box-shadow: 15px 15px 40px hsl(220, 15%, 55%);
+}
