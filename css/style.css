@@ -1,7 +1,11 @@
 
 body{
-    background-color: white;
-
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    height: 900px;
+    margin: auto;
+    text-align: center;
 }
 
 img{
@@ -25,19 +29,7 @@ p{
     color:grey;
 }
 
-.secondBackground{
-    background-color: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
-    width: 1440px;
-    height: 900px;
-    margin: auto;
-    text-align: center;
-    box-shadow: 15px 15px 30px hsl(220, 15%, 55%);
-
-}
-
-.thirdBackground{
+.background{
     background-color: white;
     width: 300px;
     margin:auto;
