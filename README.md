@@ -3,6 +3,5 @@ This repository consists of one of the first Frontend Mentor Challenges that you
 
 # URLs
 
-🔗 The URL of my solution: https://limproda.github.io/Frontend-Mentor-QR-Code/
-
+🔗 The URL of my solution: https://limproda.github.io/QR-Code_Frontend_Mentor/
 🔗 URL of the challenge: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
